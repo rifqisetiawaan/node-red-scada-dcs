@@ -1,0 +1,18 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-graphs": "~0.3.5",
+        "node-red-contrib-modbus": "~5.25.0",
+        "node-red-contrib-mongodb-aleph": "~0.3.0",
+        "node-red-contrib-ui-led": "~0.4.11",
+        "node-red-contrib-uibuilder": "~6.0.0",
+        "node-red-dashboard": "~3.2.3",
+        "node-red-dygraphs": "~0.0.2",
+        "node-red-node-mongodb": "~0.2.5",
+        "node-red-node-ui-iframe": "~0.2.1",
+        "node-red-node-ui-lineargauge": "~0.3.7"
+    }
+}
